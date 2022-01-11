@@ -21,6 +21,7 @@ const Home: NextPage = () => {
       }
     })
 
+    
 
     await mainControls.start({
       opacity: 0,
